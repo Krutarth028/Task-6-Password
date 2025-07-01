@@ -6,6 +6,7 @@ To understand what makes a password strong and evaluate various passwords using 
 
 ## Tested Passwords:
 | Password                     | Score      | Crack Time         | Tool Used               | Feedback |
+|------------------------------|------------|--------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------|
 | U!no@4Mine56                 | ~98-100%   | ~centuries         | passwordmonster.com     | Very strong; good symbol use and obfuscation. Slight risk due to recognizable words like "uno" and "mine"         |
 | #ice/Hot2812fTRe/cream#      | ~100%      | ~Trillion Years    | passwordmonster.com     | Extremely strong and long; well-obfuscated. Slight word presence but fully masked by structure                    |
 | ?#CybeR$Ecurity8083!         | ~96-99%    | ~Billion years     | passwordmonster.com     | Excellent mix of characters; recognizable word "CyberSecurity" is well hidden with symbols and case               |
